@@ -18,12 +18,7 @@
              input = sc.nextInt();
         }while(input==1);
     }
-        
-        
-        
-    
-             
-        }
+ }
         
         
         
